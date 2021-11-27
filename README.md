@@ -8,7 +8,8 @@
 * [Regularisation](#Regularisation)
 * [Training regime](#Trainingregime)
 * [Neuroscience](#neuro)
-* [Additional papers](#ML)
+* [Citation](#citation)
+* [Additional papers](#additional_papers)
 
 <a name="SingleMultiviewprediction" />
 
@@ -95,5 +96,13 @@ https://arxiv.org/pdf/2106.03535.pdf
 | Brain graph synthesis by dual adversarial domain alignment and target graph prediction from a source graph | [LNCS](https://www.sciencedirect.com/science/article/pii/S1361841520302668?via%3Dihub)  | Alaa Bessadok |  [ABIDE](http://fcon_1000.projects.nitrc.org/indi/abide/)   | __ | __ | Medical Image Analysis Journal 2021
 
 ## Citation
+
+<a name="citation" />
+
+xxx
+
+## Additional papers
+
+<a name="additional_papers" />
 
 xxx
