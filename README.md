@@ -21,27 +21,14 @@ https://arxiv.org/pdf/2106.03535.pdf
 ## Machine learning
 
 ### Reviews, surveys, & tutorials
-| Title                                                        | Link | Implementation |
+| Title                                                        | Link | Relevance |
 |:------------------------------------------------------------:|:----------------------:|:----------------------:
-| Recovering Brain Structural Connectivity from Functional Connectivity via Multi-GCN Based Generative Adversarial Network | [LNCS](https://link.springer.com/chapter/10.1007/978-3-030-59728-3_6)  | ** | [HCP](https://www.humanconnectome.org/study/hcp-young-adult/data-releases)   | __ | __ | MICCAI 2020 | 
-| Topology-Guided Cyclic Brain Connectivity Generation using Geometric Deep Learning| [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0165027020304118) | Abubakhari Sserwadda | [ABIDE](http://fcon_1000.projects.nitrc.org/indi/abide/)   | [Python](https://github.com/basiralab/CGTS-GAN) | __ | Journal of Neuroscience Methods 2020
-| Deep Representation Learning for Multimodal Brain Networks | [ARXIV](https://arxiv.org/abs/2007.09777)  | Wen Zhang | [WU-Minn HCP](https://pubmed.ncbi.nlm.nih.gov/23684880/)   | __ | __ | MICCAI 2020  
-| Symmetric Dual Adversarial Connectomic Domain Alignment for Predicting Isomorphic Brain Graph from a Baseline Graph | [LNCS](https://link.springer.com/chapter/10.1007/978-3-030-32251-9_51)  | Alaa Bessadok |  [ABIDE](http://fcon_1000.projects.nitrc.org/indi/abide/)   | __ | __ | MICCAI 2019 
-| Hierarchical Adversarial Connectomic Domain Alignment for Target Brain Graph Prediction and Classification from a Source Graph | [LNCS](https://link.springer.com/chapter/10.1007/978-3-030-32281-6_11)  | Alaa Bessadok |  [ABIDE](http://fcon_1000.projects.nitrc.org/indi/abide/)   | [Python](https://github.com/basiralab/HADA) | [14min](https://www.youtube.com/watch?v=OJOtLy9Xd34) | PRIME-MICCAI 2019 
-| Brain graph synthesis by dual adversarial domain alignment and target graph prediction from a source graph | [LNCS](https://www.sciencedirect.com/science/article/pii/S1361841520302668?via%3Dihub)  | Alaa Bessadok |  [ABIDE](http://fcon_1000.projects.nitrc.org/indi/abide/)   | __ | __ | Medical Image Analysis Journal 2021 
-
-### Classic papers
-
-<a name="Classicpapers" />
-
-| Title                                                        | Link | Implementation |
-|:------------------------------------------------------------:|:----------------------:|:----------------------:
-| Recovering Brain Structural Connectivity from Functional Connectivity via Multi-GCN Based Generative Adversarial Network | [LNCS](https://link.springer.com/chapter/10.1007/978-3-030-59728-3_6)  | Lu Zhang | [HCP](https://www.humanconnectome.org/study/hcp-young-adult/data-releases)   | __ | __ | MICCAI 2020 | 
-| Topology-Guided Cyclic Brain Connectivity Generation using Geometric Deep Learning| [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0165027020304118) | Abubakhari Sserwadda | [ABIDE](http://fcon_1000.projects.nitrc.org/indi/abide/)   | [Python](https://github.com/basiralab/CGTS-GAN) | __ | Journal of Neuroscience Methods 2020
-| Deep Representation Learning for Multimodal Brain Networks | [ARXIV](https://arxiv.org/abs/2007.09777)  | Wen Zhang | [WU-Minn HCP](https://pubmed.ncbi.nlm.nih.gov/23684880/)   | __ | __ | MICCAI 2020  
-| Symmetric Dual Adversarial Connectomic Domain Alignment for Predicting Isomorphic Brain Graph from a Baseline Graph | [LNCS](https://link.springer.com/chapter/10.1007/978-3-030-32251-9_51)  | Alaa Bessadok |  [ABIDE](http://fcon_1000.projects.nitrc.org/indi/abide/)   | __ | __ | MICCAI 2019 
-| Hierarchical Adversarial Connectomic Domain Alignment for Target Brain Graph Prediction and Classification from a Source Graph | [LNCS](https://link.springer.com/chapter/10.1007/978-3-030-32281-6_11)  | Alaa Bessadok |  [ABIDE](http://fcon_1000.projects.nitrc.org/indi/abide/)   | [Python](https://github.com/basiralab/HADA) | [14min](https://www.youtube.com/watch?v=OJOtLy9Xd34) | PRIME-MICCAI 2019 
-| Brain graph synthesis by dual adversarial domain alignment and target graph prediction from a source graph | [LNCS](https://www.sciencedirect.com/science/article/pii/S1361841520302668?via%3Dihub)  | Alaa Bessadok |  [ABIDE](http://fcon_1000.projects.nitrc.org/indi/abide/)   | __ | __ | Medical Image Analysis Journal 2021 
+| Continual lifelong learning with neural networks: A review | [Neural Networks](https://www.sciencedirect.com/science/article/pii/S0893608019300231) | *** | [HCP](https://www.humanconnectome.org/study/hcp-young-adult/data-releases)   | __ | __ | MICCAI 2020 | 
+| Catastrophic forgetting in connectionist networks | [TICS](https://www.sciencedirect.com/science/article/pii/S1364661399012942) | *** | [ABIDE](http://fcon_1000.projects.nitrc.org/indi/abide/)   | [Python](https://github.com/basiralab/CGTS-GAN) | __ | Journal of Neuroscience Methods 2020
+| Neuroscience-Inspired Artificial Intelligence | [Neuron](https://www.sciencedirect.com/science/article/pii/S0896627317305093?via%3Dihub)  | ** | [WU-Minn HCP](https://pubmed.ncbi.nlm.nih.gov/23684880/)   | __ | __ | MICCAI 2020  
+| How to grow a mind: Statistics, structure, and abstraction | [Science](https://www.science.org/doi/10.1126/science.1192788)  | * |  [ABIDE](http://fcon_1000.projects.nitrc.org/indi/abide/)   | __ | __ | MICCAI 2019 
+| Deep learning | [Nature](https://www.nature.com/articles/nature14539)  | * |  [ABIDE](http://fcon_1000.projects.nitrc.org/indi/abide/)   | [Python](https://github.com/basiralab/HADA) | [14min](https://www.youtube.com/watch?v=OJOtLy9Xd34) | PRIME-MICCAI 2019 
+| Universal Intelligence: A Definition of Machine Intelligence | [arXiv](https://arxiv.org/abs/0712.3329)  | * |  [ABIDE](http://fcon_1000.projects.nitrc.org/indi/abide/)   | __ | __ | Medical Image Analysis Journal 2021 
 
 ### Architectural approaches to continual learning
 
@@ -49,12 +36,9 @@ https://arxiv.org/pdf/2106.03535.pdf
 
 | Title                                                        | Link | Implementation |
 |:------------------------------------------------------------:|:----------------------:|:----------------------:
-| Recovering Brain Structural Connectivity from Functional Connectivity via Multi-GCN Based Generative Adversarial Network | [LNCS](https://link.springer.com/chapter/10.1007/978-3-030-59728-3_6)  | Lu Zhang | [HCP](https://www.humanconnectome.org/study/hcp-young-adult/data-releases)   | __ | __ | MICCAI 2020 | 
-| Topology-Guided Cyclic Brain Connectivity Generation using Geometric Deep Learning| [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0165027020304118) | Abubakhari Sserwadda | [ABIDE](http://fcon_1000.projects.nitrc.org/indi/abide/)   | [Python](https://github.com/basiralab/CGTS-GAN) | __ | Journal of Neuroscience Methods 2020
-| Deep Representation Learning for Multimodal Brain Networks | [ARXIV](https://arxiv.org/abs/2007.09777)  | Wen Zhang | [WU-Minn HCP](https://pubmed.ncbi.nlm.nih.gov/23684880/)   | __ | __ | MICCAI 2020  
-| Symmetric Dual Adversarial Connectomic Domain Alignment for Predicting Isomorphic Brain Graph from a Baseline Graph | [LNCS](https://link.springer.com/chapter/10.1007/978-3-030-32251-9_51)  | Alaa Bessadok |  [ABIDE](http://fcon_1000.projects.nitrc.org/indi/abide/)   | __ | __ | MICCAI 2019 
-| Hierarchical Adversarial Connectomic Domain Alignment for Target Brain Graph Prediction and Classification from a Source Graph | [LNCS](https://link.springer.com/chapter/10.1007/978-3-030-32281-6_11)  | Alaa Bessadok |  [ABIDE](http://fcon_1000.projects.nitrc.org/indi/abide/)   | [Python](https://github.com/basiralab/HADA) | [14min](https://www.youtube.com/watch?v=OJOtLy9Xd34) | PRIME-MICCAI 2019 
-| Brain graph synthesis by dual adversarial domain alignment and target graph prediction from a source graph | [LNCS](https://www.sciencedirect.com/science/article/pii/S1361841520302668?via%3Dihub)  | Alaa Bessadok |  [ABIDE](http://fcon_1000.projects.nitrc.org/indi/abide/)   | __ | __ | Medical Image Analysis Journal 2021 
+| Progressive Neural Networks | [arXiv](https://arxiv.org/abs/1606.04671)  | [PyTorch](https://github.com/TomVeniat/ProgressiveNeuralNetworks.pytorch) [TensorFlow](https://github.com/synpon/prog_nn) | [HCP](https://www.humanconnectome.org/study/hcp-young-adult/data-releases)   | __ | __ | MICCAI 2020 | 
+| Neurogenesis deep learning: Extending deep networks to accommodate new classes | [IEEE](https://ieeexplore.ieee.org/document/7965898) | – | [ABIDE](http://fcon_1000.projects.nitrc.org/indi/abide/)   | [Python](https://github.com/basiralab/CGTS-GAN) | __ | Journal of Neuroscience Methods 2020
+| Adaptive structural learning of artificial neural networks | [ICML](https://proceedings.mlr.press/v70/cortes17a.html)  | [TensorFlow](https://github.com/tensorflow/adanet) |
 
 ### Regularisation
 
@@ -62,12 +46,12 @@ https://arxiv.org/pdf/2106.03535.pdf
 
 | Title                                                        | Link | Implementation |
 |:------------------------------------------------------------:|:----------------------:|:----------------------:
-| Recovering Brain Structural Connectivity from Functional Connectivity via Multi-GCN Based Generative Adversarial Network | [LNCS](https://link.springer.com/chapter/10.1007/978-3-030-59728-3_6)  | Lu Zhang | [HCP](https://www.humanconnectome.org/study/hcp-young-adult/data-releases)   | __ | __ | MICCAI 2020 | 
-| Topology-Guided Cyclic Brain Connectivity Generation using Geometric Deep Learning| [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0165027020304118) | Abubakhari Sserwadda | [ABIDE](http://fcon_1000.projects.nitrc.org/indi/abide/)   | [Python](https://github.com/basiralab/CGTS-GAN) | __ | Journal of Neuroscience Methods 2020
-| Deep Representation Learning for Multimodal Brain Networks | [ARXIV](https://arxiv.org/abs/2007.09777)  | Wen Zhang | [WU-Minn HCP](https://pubmed.ncbi.nlm.nih.gov/23684880/)   | __ | __ | MICCAI 2020  
-| Symmetric Dual Adversarial Connectomic Domain Alignment for Predicting Isomorphic Brain Graph from a Baseline Graph | [LNCS](https://link.springer.com/chapter/10.1007/978-3-030-32251-9_51)  | Alaa Bessadok |  [ABIDE](http://fcon_1000.projects.nitrc.org/indi/abide/)   | __ | __ | MICCAI 2019 
-| Hierarchical Adversarial Connectomic Domain Alignment for Target Brain Graph Prediction and Classification from a Source Graph | [LNCS](https://link.springer.com/chapter/10.1007/978-3-030-32281-6_11)  | Alaa Bessadok |  [ABIDE](http://fcon_1000.projects.nitrc.org/indi/abide/)   | [Python](https://github.com/basiralab/HADA) | [14min](https://www.youtube.com/watch?v=OJOtLy9Xd34) | PRIME-MICCAI 2019 
-| Brain graph synthesis by dual adversarial domain alignment and target graph prediction from a source graph | [LNCS](https://www.sciencedirect.com/science/article/pii/S1361841520302668?via%3Dihub)  | Alaa Bessadok |  [ABIDE](http://fcon_1000.projects.nitrc.org/indi/abide/)   | __ | __ | Medical Image Analysis Journal 2021 
+|  Learning without forgetting | [arXiv](https://arxiv.org/abs/1606.09282)  | [PyTorch](https://github.com/ngailapdi/LWF) | [HCP](https://www.humanconnectome.org/study/hcp-young-adult/data-releases)   | __ | __ | MICCAI 2020 | 
+| Distilling the knowledge in a neural network | [arXiv](https://arxiv.org/abs/1503.02531) | [PyTorch](https://github.com/shriramsb/Distilling-the-Knowledge-in-a-Neural-Network) [TensorFlow](https://github.com/a7b23/Distilling-the-knowledge-in-neural-network) | [ABIDE](http://fcon_1000.projects.nitrc.org/indi/abide/)   | [Python](https://github.com/basiralab/CGTS-GAN) | __ | Journal of Neuroscience Methods 2020
+| Overcoming catastrophic forgetting in neural networks | [arXiv](https://arxiv.org/abs/1612.007967)  | [PyTorch](https://github.com/shivamsaboo17/Overcoming-Catastrophic-forgetting-in-Neural-Networks) [TensorFlow](https://github.com/stokesj/EWC) | [WU-Minn HCP](https://pubmed.ncbi.nlm.nih.gov/23684880/)   | __ | __ | MICCAI 2020  
+| Note on the quadratic penalties in elastic weight consolidation | [PNAS](https://www.pnas.org/content/115/11/E2496) | – |  [ABIDE](http://fcon_1000.projects.nitrc.org/indi/abide/)   | __ | __ | MICCAI 2019 
+| Measuring catastrophic forgetting in neural networks | [arXiv](https://arxiv.org/abs/1708.02072)  | – |  [ABIDE](http://fcon_1000.projects.nitrc.org/indi/abide/)   | [Python](https://github.com/basiralab/HADA) | [14min](https://www.youtube.com/watch?v=OJOtLy9Xd34) | PRIME-MICCAI 2019 
+| Continual learning through synaptic intelligence | [ICML](https://dl.acm.org/doi/10.5555/3305890.3306093) | [TensorFlow](https://github.com/ganguli-lab/pathint) |  [ABIDE](http://fcon_1000.projects.nitrc.org/indi/abide/)   | __ | __ | Medical Image Analysis Journal 2021 
 
 ### Training regime
 
@@ -75,12 +59,11 @@ https://arxiv.org/pdf/2106.03535.pdf
 
 | Title                                                        | Link | Implementation |
 |:------------------------------------------------------------:|:----------------------:|:----------------------:
-| Recovering Brain Structural Connectivity from Functional Connectivity via Multi-GCN Based Generative Adversarial Network | [LNCS](https://link.springer.com/chapter/10.1007/978-3-030-59728-3_6)  | Lu Zhang | [HCP](https://www.humanconnectome.org/study/hcp-young-adult/data-releases)   | __ | __ | MICCAI 2020 | 
-| Topology-Guided Cyclic Brain Connectivity Generation using Geometric Deep Learning| [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0165027020304118) | Abubakhari Sserwadda | [ABIDE](http://fcon_1000.projects.nitrc.org/indi/abide/)   | [Python](https://github.com/basiralab/CGTS-GAN) | __ | Journal of Neuroscience Methods 2020
-| Deep Representation Learning for Multimodal Brain Networks | [ARXIV](https://arxiv.org/abs/2007.09777)  | Wen Zhang | [WU-Minn HCP](https://pubmed.ncbi.nlm.nih.gov/23684880/)   | __ | __ | MICCAI 2020  
-| Symmetric Dual Adversarial Connectomic Domain Alignment for Predicting Isomorphic Brain Graph from a Baseline Graph | [LNCS](https://link.springer.com/chapter/10.1007/978-3-030-32251-9_51)  | Alaa Bessadok |  [ABIDE](http://fcon_1000.projects.nitrc.org/indi/abide/)   | __ | __ | MICCAI 2019 
-| Hierarchical Adversarial Connectomic Domain Alignment for Target Brain Graph Prediction and Classification from a Source Graph | [LNCS](https://link.springer.com/chapter/10.1007/978-3-030-32281-6_11)  | Alaa Bessadok |  [ABIDE](http://fcon_1000.projects.nitrc.org/indi/abide/)   | [Python](https://github.com/basiralab/HADA) | [14min](https://www.youtube.com/watch?v=OJOtLy9Xd34) | PRIME-MICCAI 2019 
-| Brain graph synthesis by dual adversarial domain alignment and target graph prediction from a source graph | [LNCS](https://www.sciencedirect.com/science/article/pii/S1361841520302668?via%3Dihub)  | Alaa Bessadok |  [ABIDE](http://fcon_1000.projects.nitrc.org/indi/abide/)   | __ | __ | Medical Image Analysis Journal 2021 
+| How transferable are features in deep neural networks? | [arXiv](https://arxiv.org/abs/1411.1792) | [Caffe](https://github.com/yosinski/convnet_transfer) | [HCP](https://www.humanconnectome.org/study/hcp-young-adult/data-releases)   | __ | __ | MICCAI 2020 | 
+| CHILD: A First Step Towards Continual Learning | [Machine Learning](https://link.springer.com/article/10.1023/A:1007331723572) | – | [ABIDE](http://fcon_1000.projects.nitrc.org/indi/abide/)   | [Python](https://github.com/basiralab/CGTS-GAN) | __ | Journal of Neuroscience Methods 2020
+| Curriculum learning | [ICML](https://dl.acm.org/doi/10.1145/1553374.1553380) | – | [WU-Minn HCP](https://pubmed.ncbi.nlm.nih.gov/23684880/)   | __ | __ | MICCAI 2020  
+| Continual Learning with Deep Generative Replay | [arXiv](https://arxiv.org/abs/1705.08690)  | [PyTorch](https://github.com/kuc2477/pytorch-deep-generative-replay) |  [ABIDE](http://fcon_1000.projects.nitrc.org/indi/abide/)   | __ | __ | MICCAI 2019 
+| Experience Replay for Continual Learning | [arXiv](https://arxiv.org/abs/1811.11682)  | – |
 
 ## Neuroscience
 
