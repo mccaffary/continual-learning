@@ -1,4 +1,4 @@
-# Continual Learning Paper Repository
+# Continual learning paper repository
 
 ![](paper_/continual_learning_repo_figure_.png)
 
