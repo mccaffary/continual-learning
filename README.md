@@ -103,7 +103,24 @@ https://arxiv.org/pdf/2106.03535.pdf
 
 <a name="citation" />
 
-xxx
+#### BibTeX
+```
+@InProceedings{pmlr-v70-zenke17a,
+title = 	 {Continual Learning Through Synaptic Intelligence},
+author = 	 {Friedemann Zenke and Ben Poole and Surya Ganguli},
+booktitle = 	 {Proceedings of the 34th International Conference on Machine Learning},
+pages = 	 {3987--3995},
+year = 	 {2017},
+editor = 	 {Doina Precup and Yee Whye Teh},
+volume = 	 {70},
+series = 	 {Proceedings of Machine Learning Research},
+address = 	 {International Convention Centre, Sydney, Australia},
+month = 	 {06--11 Aug},
+publisher = 	 {PMLR},
+pdf = 	 {http://proceedings.mlr.press/v70/zenke17a/zenke17a.pdf},
+url = 	 {http://proceedings.mlr.press/v70/zenke17a.html},
+}
+```
 
 ## Additional papers
 
