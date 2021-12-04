@@ -37,7 +37,7 @@ https://arxiv.org/pdf/2106.03535.pdf
 
 ### Classic papers
 
-<a name="clssic_papers" />
+<a name="classic_papers" />
 
 | Title                                                        | Link | Relevance |
 |:------------------------------------------------------------:|:----------------------:|:----------------------:
