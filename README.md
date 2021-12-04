@@ -4,8 +4,8 @@
 
 > This repository contains an incomplete (but dynamically updated) list of papers exploring continual learning in machine learning and neuroscience, and accompanies the related paper [Towards continual task learning in artificial neural networks: current approaches and insights from neuroscience](https://arxiv.org/).
 
-* [Machine learning reviews, surveys, & tutorials](#SingleMultiviewprediction)
-* [Classic papers](#Classicpapers)
+* [Machine learning reviews, surveys, & tutorials](#reviews)
+* [Classic papers](#classic_papers)
 * [Architectural approaches to continual learning](#architecture)
 * [Regularisation](#Regularisation)
 * [Training regime](#Trainingregime)
@@ -23,6 +23,9 @@ https://arxiv.org/pdf/2106.03535.pdf
 ## Machine learning
 
 ### Reviews, surveys, & tutorials
+
+<a name="reviews" />
+
 | Title                                                        | Link | Relevance |
 |:------------------------------------------------------------:|:----------------------:|:----------------------:
 | Continual lifelong learning with neural networks: A review | [Neural Networks](https://www.sciencedirect.com/science/article/pii/S0893608019300231) | ••• | [HCP](https://www.humanconnectome.org/study/hcp-young-adult/data-releases)   | __ | __ | MICCAI 2020 | 
@@ -31,6 +34,14 @@ https://arxiv.org/pdf/2106.03535.pdf
 | How to grow a mind: Statistics, structure, and abstraction | [Science](https://www.science.org/doi/10.1126/science.1192788)  | • |  [ABIDE](http://fcon_1000.projects.nitrc.org/indi/abide/)   | __ | __ | MICCAI 2019 
 | Deep learning | [Nature](https://www.nature.com/articles/nature14539)  | • |  [ABIDE](http://fcon_1000.projects.nitrc.org/indi/abide/)   | [Python](https://github.com/basiralab/HADA) | [14min](https://www.youtube.com/watch?v=OJOtLy9Xd34) | PRIME-MICCAI 2019 
 | Universal Intelligence: A Definition of Machine Intelligence | [arXiv](https://arxiv.org/abs/0712.3329)  | • |  [ABIDE](http://fcon_1000.projects.nitrc.org/indi/abide/)   | __ | __ | Medical Image Analysis Journal 2021 
+
+### Classic papers
+
+<a name="clssic_papers" />
+
+| Title                                                        | Link | Relevance |
+|:------------------------------------------------------------:|:----------------------:|:----------------------:
+| Catastrophic forgetting in connectionist networks | [TICS](https://www.sciencedirect.com/science/article/pii/S1364661399012942) | ••• | 
 
 ### Architectural approaches to continual learning
 
