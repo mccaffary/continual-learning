@@ -42,8 +42,8 @@ https://arxiv.org/pdf/2106.03535.pdf
 | Title                                                        | Link | Relevance |
 |:------------------------------------------------------------:|:----------------------:|:----------------------:
 | Catastrophic forgetting in connectionist networks | [TICS](https://www.sciencedirect.com/science/article/pii/S1364661399012942) | ••• | 
-| Catastrophic Interference in Connectionist Networks: The Sequential Learning Problem | [Psychology of Learning & Motivation](https://www.sciencedirect.com/science/article/pii/S0079742108605368) | XXX |
-| Connectionist models of recognition memory: Constraints imposed by learning and forgetting functions | [Psychological Review](https://content.apa.org/record/1990-18992-001) | XXX |
+| Catastrophic Interference in Connectionist Networks: The Sequential Learning Problem | [Psychology of Learning & Motivation](https://www.sciencedirect.com/science/article/pii/S0079742108605368) | ••• |
+| Connectionist models of recognition memory: Constraints imposed by learning and forgetting functions | [Psychological Review](https://content.apa.org/record/1990-18992-001) | • |
 
 ### Architectural approaches to continual learning
 
