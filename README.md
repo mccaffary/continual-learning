@@ -11,7 +11,6 @@
 * [Training regime](#Trainingregime)
 * [Neuroscience](#neuro)
 * [Citation](#citation)
-* [Additional papers](#additional_papers)
 
 <a name="SingleMultiviewprediction" />
 
@@ -137,9 +136,3 @@ pdf = 	 {http://proceedings.mlr.press/v70/zenke17a/zenke17a.pdf},
 url = 	 {http://proceedings.mlr.press/v70/zenke17a.html},
 }
 ```
-
-## Additional papers
-
-<a name="additional_papers" />
-
-xxx
