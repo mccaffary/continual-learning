@@ -67,7 +67,7 @@ https://arxiv.org/pdf/2106.03535.pdf
 | Measuring catastrophic forgetting in neural networks | [arXiv](https://arxiv.org/abs/1708.02072)  | – |  [ABIDE](http://fcon_1000.projects.nitrc.org/indi/abide/)   | [Python](https://github.com/basiralab/HADA) | [14min](https://www.youtube.com/watch?v=OJOtLy9Xd34) | PRIME-MICCAI 2019 
 | Continual learning through synaptic intelligence | [ICML](https://dl.acm.org/doi/10.5555/3305890.3306093) | [TensorFlow](https://github.com/ganguli-lab/pathint) |  [ABIDE](http://fcon_1000.projects.nitrc.org/indi/abide/)   | __ | __ | Medical Image Analysis Journal 2021 |
 | An Empirical Investigation of Catastrophic Forgetting in Gradient-Based Neural Networks | [arXiv](https://arxiv.org/abs/1312.6211) | [Theano](https://github.com/goodfeli/forgetting)
-|
+
 ### Training regime
 
 <a name="Trainingregime" />
