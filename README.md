@@ -80,6 +80,7 @@ https://arxiv.org/pdf/2106.03535.pdf
 | Continual Learning with Deep Generative Replay | [arXiv](https://arxiv.org/abs/1705.08690)  | [PyTorch](https://github.com/kuc2477/pytorch-deep-generative-replay) |  [ABIDE](http://fcon_1000.projects.nitrc.org/indi/abide/)   | __ | __ | MICCAI 2019 
 | Experience Replay for Continual Learning | [arXiv](https://arxiv.org/abs/1811.11682)  | – |
 | Brain-inspired replay for continual learning with artificial neural networks | [Nature Communications](https://www.nature.com/articles/s41467-020-17866-2) | [PyTorch](https://github.com/GMvandeVen/brain-inspired-replay) | 
+| REMIND Your Neural Network to Prevent Catastrophic Forgetting | [arXiv](https://arxiv.org/abs/1910.02509) | [PyTorch](https://github.com/tyler-hayes/REMIND) |
 
 ## Neuroscience
 
