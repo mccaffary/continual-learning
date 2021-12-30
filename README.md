@@ -2,7 +2,7 @@
 
 ![](paper_/continual_learning_repo_figure_.png)
 
-> This repository contains an incomplete (but dynamically updated) list of papers exploring continual learning in machine learning and neuroscience, and accompanies the related paper [Towards continual task learning in artificial neural networks: current approaches and insights from neuroscience](https://arxiv.org/).
+> This repository contains an incomplete (but dynamically updated) list of papers exploring continual learning in machine learning and neuroscience, and accompanies the related paper [Towards continual task learning in artificial neural networks: current approaches and insights from neuroscience](https://arxiv.org/abs/2112.14146).
 
 * [Machine learning reviews, surveys, & tutorials](#reviews)
 * [Classic papers](#classic_papers)
