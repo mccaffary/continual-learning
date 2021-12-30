@@ -17,7 +17,7 @@
 ## arXiv link
 
 The full paper complementing this repository is available at 
-https://arxiv.org/pdf/2106.03535.pdf
+https://arxiv.org/abs/2112.14146
 
 ## Machine learning
 
